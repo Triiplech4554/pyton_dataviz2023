@@ -1,1 +1,3 @@
-# pyton_dataviz2023
+# SC663401 Basic programming for data science and data visualization 
+> Natthawadee chuenchuanchom 633020986-5
+________________________________________
